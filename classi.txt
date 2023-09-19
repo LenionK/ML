@@ -1,0 +1,22 @@
+Sala 1
+Sala 2
+Sala 3
+Sala 4
+Sala 5
+Sala 6
+Sala 7
+Sala 8
+Sala 9
+Sala 10
+Sala 11 
+Sala 12
+Sala 13
+Cortile degli Stemmi
+Sala Carrozze
+Cortile Parisio
+Biglietteria
+Portico
+Scala
+Loggetta
+BoxSala
+Area Sosta
