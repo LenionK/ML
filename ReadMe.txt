@@ -6,4 +6,4 @@ Bellomo: contine il dataset.
 Logs: contiene le informazioni per la costruzione dei grafici ottenute dall'allenamento della rete.
 weight: contine i pesi per ciascun modello usato (non sono presenti i pesi di ogni epoca).
 
-il video tutorial verrà consegnato insieme al link dek git come allegato.
+il video tutorial verrà consegnato insieme al link del git come allegato.
